@@ -9,7 +9,8 @@
     "start": "npm run dev",
     "lint": "eslint --ext .js,.vue src",
     "build": "node build/build.js",
-    "serve": "vue-cli-service serve"
+    "serve": "vue-cli-service serve",
+    "eslint": "node_modules/.bin/eslint "
   },
   "dependencies": {
     "@headlessui/vue": "^1.5.0",
