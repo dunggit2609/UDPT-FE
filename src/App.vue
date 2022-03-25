@@ -40,7 +40,7 @@ export default {
   }
 };
 </script>
-<style src="../dist/output.css"></style>
+<style src="./output.css"></style>
 
 <style>
 #app {
